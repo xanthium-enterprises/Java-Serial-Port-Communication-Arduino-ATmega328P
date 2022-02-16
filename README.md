@@ -7,3 +7,5 @@
 
 - Java Standard library no longer carries classes to communicate with the PC serial port,So we will use a third party library to code our program.
  
+- [Java Serial Port Communication Tutorial](https://www.xanthium.in/cross-platform-serial-port-programming-tutorial-java-jdk-arduino-embedded-system-tutorial)
+-
