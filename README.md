@@ -1,2 +1,2 @@
-# Java-Serial-Port-Communication-Arduino-ATmega328P
+# Serial Port Communication tutorial using Java and Arduino (ATmega328P)
  
